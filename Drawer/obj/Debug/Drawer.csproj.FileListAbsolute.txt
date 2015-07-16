@@ -1,0 +1,13 @@
+c:\users\артем\documents\visual studio 2013\Projects\Drawer\Drawer\bin\Debug\Drawer.exe.config
+c:\users\артем\documents\visual studio 2013\Projects\Drawer\Drawer\obj\Debug\Drawer.MainForm.resources
+c:\users\артем\documents\visual studio 2013\Projects\Drawer\Drawer\obj\Debug\Drawer.Properties.Resources.resources
+c:\users\артем\documents\visual studio 2013\Projects\Drawer\Drawer\obj\Debug\Drawer.csproj.GenerateResource.Cache
+c:\users\артем\documents\visual studio 2013\Projects\Drawer\Drawer\bin\Debug\Drawer.exe
+c:\users\артем\documents\visual studio 2013\Projects\Drawer\Drawer\bin\Debug\Drawer.pdb
+c:\users\артем\documents\visual studio 2013\Projects\Drawer\Drawer\obj\Debug\Drawer.exe
+c:\users\артем\documents\visual studio 2013\Projects\Drawer\Drawer\obj\Debug\Drawer.pdb
+C:\Users\Артем\documents\visual studio 2013\Projects\Drawer\Drawer\bin\Debug\StyleCop.CSharp.dll
+C:\Users\Артем\documents\visual studio 2013\Projects\Drawer\Drawer\bin\Debug\StyleCop.dll
+C:\Users\Артем\documents\visual studio 2013\Projects\Drawer\Drawer\obj\Debug\Drawer.csprojResolveAssemblyReference.cache
+C:\Users\Артем\documents\visual studio 2013\Projects\Drawer\Drawer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Артем\documents\visual studio 2013\Projects\Drawer\Drawer\bin\Debug\Newtonsoft.Json.xml
